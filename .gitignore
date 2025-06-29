@@ -1,0 +1,11 @@
+*/terraform.tfvars
+*/.terraform
+*/.terraform.lock.hcl
+*/terraform.tfstate*
+*/classical-optimizer.zip
+*/quantum-*
+*/poetry.lock
+*/.env
+
+# Ignore Python cache files
+**/__pycache__
